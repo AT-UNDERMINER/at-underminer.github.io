@@ -1,0 +1,30 @@
+baseURL = 'https://at-underminer.github.io/'
+languageCode = 'en-au'
+title = 'Damien Turner — Projects'
+theme = 'PaperMod'
+
+[params]
+  mainSections = ['projects', 'posts']
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+
+[params.homeInfoParams]
+  Title = 'Projects & Builds'
+  Content = 'Electrical engineering student and boilermaker. Embedded systems, fabrication, and things in between.'
+
+[[menu.main]]
+  name = 'Projects'
+  url = '/projects/'
+  weight = 10
+
+[[menu.main]]
+  name = 'Blog'
+  url = '/posts/'
+  weight = 20
+
+[[menu.main]]
+  name = 'Tags'
+  url = '/tags/'
+  weight = 30
