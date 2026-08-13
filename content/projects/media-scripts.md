@@ -1,7 +1,7 @@
 ---
 title: "Plex Media Scripts"
 date: 2025-04-26
-draft: true
+draft: false
 role: "author"
 repo: "https://github.com/AT-UNDERMINER/Media_Scripts"
 tags: ["python"]

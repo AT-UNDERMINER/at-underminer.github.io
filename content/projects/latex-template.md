@@ -1,7 +1,7 @@
 ---
 title: "IEEE LaTeX Template"
 date: 2024-10-28
-draft: true
+draft: false
 role: "author"
 repo: "https://github.com/AT-UNDERMINER/LATEX_Template"
 tags: ["tex"]
