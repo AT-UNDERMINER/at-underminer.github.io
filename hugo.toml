@@ -4,7 +4,7 @@ title = 'Damien Turner — Projects'
 theme = 'PaperMod'
 
 [params]
-  mainSections = ['projects', 'posts']
+  mainSections = ['projects', 'contributions', 'posts']
   ShowReadingTime = true
   ShowCodeCopyButtons = true
   ShowBreadCrumbs = true
@@ -18,6 +18,11 @@ theme = 'PaperMod'
   name = 'Projects'
   url = '/projects/'
   weight = 10
+
+[[menu.main]]
+  name = 'Contributions'
+  url = '/contributions/'
+  weight = 15
 
 [[menu.main]]
   name = 'Blog'
